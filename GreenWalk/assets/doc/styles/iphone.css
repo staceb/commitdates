@@ -1,0 +1,23 @@
+/* iPhone.css */
+@import url("fonts/oregon/stylesheet.css");
+@import url("fonts/biolinum/stylesheet.css");
+
+body{
+	font-family: "OregonLDO", Helvetica, Arial, sans-serif;
+}
+	h1{
+		font-family: "LinuxBiolinum", sans-serif;
+		letter-spacing: -1px;
+	}
+
+	p, li{
+		letter-spacing: 1px;
+	}
+
+
+/* Classes */
+.column{
+	width: auto;
+	float: none;
+	padding-right: 0px;
+}

@@ -1,0 +1,65 @@
+/* Screen.css */
+
+html, body{
+	-webkit-text-size-adjust: none;
+}
+
+body{
+	font: 75% "Optima", Helvetica, Arial, sans-serif;
+	line-height: normal;
+	background-color: rgb(254, 245, 220);
+	padding: 1em;
+}
+	/* Headings */
+	h1{
+		font-weight: bold;
+		font-size: 2.5em;
+		margin-bottom: 0.4em;
+	}
+
+
+	/* Body Text */
+	p{
+		font-size: 1.16em;
+		line-height: 1.55em;
+		margin-bottom: 1em;
+	}
+
+
+	/* Lists */
+	ul, ol{
+		margin-bottom: 1em;
+	}
+
+	li{
+		font-size: 1.16em;
+		line-height: 1.55em;
+		list-style-position: inside;
+	}
+		ul li::before{
+			display: marker;
+			content: "\25CF";
+			font-size: 1.3em;
+			line-height: 0px;
+			padding-right: 0.5em;
+		}
+
+		ol li{
+			list-style-type: decimal;
+		}
+
+
+/* Classes */
+.listhead{
+	margin-bottom: 0px;
+}
+
+.column{
+	width: 45%;
+	float: left;
+	padding-right: 5%;
+	margin-bottom: 1em;
+}
+	.column:last-child{
+		padding-right: 0px;
+	}

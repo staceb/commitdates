@@ -1,0 +1,33 @@
+[BACKGROUND]
+49 x 28 (14px radius)
+#000 (70% opacity)
+
+
+[ARROW]
+24 x 12
+12px from bottom (curved) edge of button
+#d9d9d9 (100% opacity)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======================================================
+Examine Button
+Height: 31px
+Width: 104px (with default text length)
+
+Icon Pos: 6px left, 5px top
+
+
+Text Pos: 34px left, 10px bottom
+Text Style: 14pt, Helvetica LT Std Roman

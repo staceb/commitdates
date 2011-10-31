@@ -1,0 +1,229 @@
+[Welcome]
+	-	[Portrait]
+		1,0,0,0,0,0.5735765,0.8191521,-0.001638304,0,-0.8191521,0.5735765,-0.001147153,-70,-34.41459,-1499.149,3.998298
+		AACAPwAAAAAAAAAAAAAAAAAAAADp1RI/9LNRP1y81roAAAAA9LNRv+nVEj8RXJa6AACMwoqoCcLFZLvEHeR/QA==
+		
+		1, 1.3
+	
+	
+	-	[Landscape]
+		1,0,0,0,0,1,0,0,0,0,1,-0.002,-40,-180,-1850,4.7
+		AACAPwAAAAAAAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAAAAAAAAAAgD9vEgO7AAAgwgAANMMAQOfEZmaWQA==
+		
+		1, 2.6
+
+
+
+[WS]
+
+	-	[Portrait]
+		1,0,0,0,0,0.8191521,0.5735765,-0.001147153,0,-0.5735765,0.8191521,-0.001638304,-50,-28.67032,-920.0752,2.840151
+		AACAPwAAAAAAAAAAAAAAAAAAAADzs1E/6NUSPxFclroAAAAA6NUSv/OzUT9evNa6AABIwtJc5cHQBGbEB8U1QA==
+		
+		2.1, 0.77
+		
+				CATransform3DTranslate(transform, 0, 0, -900);
+				[Sign rotate:transform degrees:35 axis:XAxis];
+				CATransform3DTranslate(transform, -50, -35, 0);
+		
+		
+		
+	-	[Landscape]
+		1,0,0,0,0,0.8191521,0.5735765,-0.001147153,0,-0.5735765,0.8191521,-0.001638304,-48,-40.9576,-928.6788,2.857358
+		AACAPwAAAAAAAAAAAAAAAAAAAADzs1E/6NUSPxFclroAAAAA6NUSv/OzUT9evNa6AABAwpbUI8JyK2jE8942QA==
+		
+		1.43, 1.15
+		
+				CATransform3DTranslate(transform, 0, 0, -900);
+				[Sign rotate:transform degrees:35 axis:XAxis];
+				CATransform3DTranslate(transform, -48, -50, 0);
+				
+				
+				
+
+[GreenWall]
+
+	-	[Portrait]
+		0.9998477,0.01511423,0.008726203,-1.745241e-05,-0.01745241,0.8658935,0.4999239,-0.0009998478,0,-0.5,0.8660254,-0.001732051,-39.90665,-4.934036,-1202.849,3.405697
+		BfZ/P6mhdzxZ+A48wmaSt1n4jrwyq10/Bfb/PlMNg7oAAAAAAAAAv9ezXT/8BeO6aKAfwqDjncAoW5bE8vZZQA==
+		
+		1.95, 0.7
+
+				CATransform3DTranslate(transform, 0, 0, -1200);
+				[Sign rotate:transform degrees:30 axis:XAxis];
+				[Sign rotate:transform degrees:1 axis:ZAxis];
+				CATransform3DTranslate(transform, -40, -5, 0);
+
+
+
+	-	[Landscape]
+		0.9998477,0.01511423,0.008726203,-1.745241e-05,-0.01745241,0.8658935,0.4999239,-0.0009998478,0,-0.5,0.8660254,-0.001732051,69.92965,103.2637,-1190.381,3.380761
+		BfZ/P6mhdzxZ+A48wmaSt1n4jrwyq10/Bfb/PlMNg7oAAAAAAAAAv9ezXT/8BeO6+9uLQv6GzkIvzJTEZV5YQA==
+		
+		1.3, 1
+			
+				CATransform3DTranslate(transform, 0, 0, -1250);
+				[Sign rotate:transform degrees:30 axis:XAxis];
+				[Sign rotate:transform degrees:1 axis:ZAxis];
+				CATransform3DTranslate(transform, 72, 118, 0);
+
+
+
+[Swale]
+	
+	-	[Portrait]
+		1,0,0,0,0,0.8660254,0.5,-0.001,0,-0.5,0.8660254,-0.001732051,-50,-91.79869,-953,2.906
+		AACAPwAAAAAAAAAAAAAAAAAAAADXs10/AAAAP28Sg7oAAAAAAAAAv9ezXT/8BeO6AABIwu6Yt8IAQG7E6Ps5QA==
+	
+		2.2, 0.77
+		
+				CATransform3DTranslate(transform, 0, 0, -900);
+				[Sign rotate:transform degrees:30 axis:XAxis];
+				CATransform3DTranslate(transform, -50, -106, 0);
+		
+		
+	-	[Landscape]
+		1,0,0,0,0,0.8660254,0.5,-0.001,0,-0.5,0.8660254,-0.001732051,-15,8.660254,-895,2.79
+		AACAPwAAAAAAAAAAAAAAAAAAAADXs10/AAAAP28Sg7oAAAAAAAAAv9ezXT/8BeO6AABwwWaQCkEAwF/EXY8yQA==
+		
+		1.4, 1.1
+				
+				CATransform3DTranslate(transform, 0, 0, -900);
+				[Sign rotate:transform degrees:30 axis:XAxis];
+				CATransform3DTranslate(transform, -15, 10, 0);
+		
+				
+				
+[KIOSC]
+	
+	-	[Portrait]
+		1,0,0,0,0,0.8910065,0.4539905,-0.0009079811,0,-0.4539905,0.8910065,-0.001782013,-50,-53.46039,-917.2394,2.834479
+		AACAPwAAAAAAAAAAAAAAAAAAAAABGWQ/cnHoPpQFbroAAAAAcnHovgEZZD9wkum6AABIwnHXVcJTT2XEGmg1QA==
+		
+		2.16, 0.8
+		
+				CATransform3DTranslate(transform, 0, 0, -890);
+				[Sign rotate:transform degrees:27 axis:XAxis];
+				CATransform3DTranslate(transform, -50, -60, 0);
+		
+		
+	
+	-	[Landscape]
+		0.9999619,0.0077754,0.003961764,-7.923529e-06,-0.008726535,0.8909726,0.4539732,-0.0009079465,0,-0.4539905,0.8910065,-0.001782013,-30.43518,44.31537,-867.4202,2.73484
+		gf1/P8jI/juw0YE7TO8Et775DrzIFmQ/Lm/oPkIDbroAAAAAcnHovgEZZD9wkum6QnvzwfBCMULk2ljEoAcvQA==
+		
+		1.4, 1.1
+				
+				CATransform3DTranslate(transform, 0, 0, -890);
+				[Sign rotate:transform degrees:27 axis:XAxis];
+				[Sign rotate:transform degrees:0.5 axis:ZAxis];
+				CATransform3DTranslate(transform, -30, 50, 0);
+				
+				
+				
+[HotWater]
+
+	-	[Portrait]
+		0.9993908,0.02148628,0.02750118,-5.500236e-05,-0.03476669,0.6816248,0.7308755,-0.001461751,-0.003041691,-0.7313864,0.6819565,-0.001363913,-40.58557,207.251,-1277.908,3.555816
+		FNh/P/0DsDwmSuE8VbJmuIVnDr32fi4/qBo7PzqYv7ocV0e7Izw7v7SULj9VxbK6n1ciwj9AT0MOvZ/EfZJjQA==
+		
+		1.85, 0.7
+		
+				CATransform3DTranslate(transform, 0, 0, -1500);
+				[Sign rotate:transform degrees:52 axis:XAxis];
+				[Sign rotate:transform degrees:2 axis:ZAxis];
+				[Sign rotate:transform degrees:-5 axis:XAxis];
+				CATransform3DTranslate(transform, -30, 305, 0);
+		
+	
+	-	[Landscape]
+		0.9993284,0.02591101,0.02591101,-5.182203e-05,-0.03664371,0.7066318,0.7066318,-0.001413264,0,-0.7071068,0.7071068,-0.001414214,-23.83416,73.67812,-1426.322,3.852644
+		/NN/P1VD1DxVQ9Q8eltZuLYXFr3T5TQ/0+U0P0M9uboAAAAA8wQ1v/MENT8iXbm6Wqy+wTNbk0JNSrLEt5F2QA==
+
+		1.35, 1.2		
+		
+				CATransform3DTranslate(transform, 0, 0, -1500);
+				[Sign rotate:transform degrees:45 axis:XAxis];
+				[Sign rotate:transform degrees:2.1 axis:ZAxis];
+				CATransform3DTranslate(transform, -20, 105, 0);
+		
+		
+				
+				
+[Energy Room]
+	
+	-	[Portrait]
+		1,0,0,0,0,1,0,0,0,0,1,-0.002,10,-74,-550,2.1
+		AACAPwAAAAAAAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAAAAAAAAAAgD9vEgO7AAAgQQAAlMIAgAnEZ2YGQA==
+		
+		2, 0.85
+		
+				CATransform3DTranslate(transform, 0, 0, -550);
+				[Sign rotate:transform degrees:0 axis:XAxis];
+				CATransform3DTranslate(transform, 10, -74, 0);
+				
+	
+	
+	-	[Landscape]
+		1,0,0,0,0,1,0,0,0,0,1,-0.002,-50,-30,-550,2.1
+		AACAPwAAAAAAAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAAAAAAAAAAgD9vEgO7AABIwgAA8MEAgAnEZ2YGQA==
+		
+		1.45, 1.25
+				
+				CATransform3DTranslate(transform, 0, 0, -550);
+				[Sign rotate:transform degrees:0 axis:XAxis];
+				CATransform3DTranslate(transform, -50, -30, 0);
+
+
+
+[Turbine]
+
+	-	[Portrait]
+		1,0,0,0,0,0.8191521,0.5735765,-0.001147153,0,-0.5735765,0.8191521,-0.001638304,-70,98.29825,-831.1708,2.662342
+		AACAPwAAAAAAAAAAAAAAAAAAAADzs1E/6NUSPxFclroAAAAA6NUSv/OzUT9evNa6AACMwrSYxELvyk/Ez2MqQA==
+		
+		1.93, 0.7
+				
+				CATransform3DTranslate(transform, 0, 0, -900);
+				[Sign rotate:transform degrees:35 axis:XAxis];
+				CATransform3DTranslate(transform, -70, 120, 0);
+	
+	
+	
+	-	[Landscape]
+		1,0,0,0,0,0.8191521,0.5735765,-0.001147153,0,-0.5735765,0.8191521,-0.001638304,-70,65.53217,-854.1139,2.708228
+		AACAPwAAAAAAAAAAAAAAAAAAAADzs1E/6NUSPxFclroAAAAA6NUSv/OzUT9evNa6AACMwngQg0JKh1XEm1MtQA==
+		
+		1.28, 1.1
+				
+				CATransform3DTranslate(transform, 0, 0, -900);
+				[Sign rotate:transform degrees:35 axis:XAxis];
+				CATransform3DTranslate(transform, -70, 80, 0);
+
+
+
+[Gardens]
+	
+	-	[Portrait]
+		0.9999025,-0.01265403,-0.005900673,1.180135e-05,0.01396218,0.9062194,0.4225771,-0.0008451542,0,-0.4226183,0.9063078,-0.001812616,-49.43664,36.88148,-882.8019,2.765604
+		nfl/P9xST7xuWsG7Zf5FN6HBZDz//Wc/BlzYPleNXboAAAAAbGHYvskDaD9Jle26H79FwqKGE0JSs1zEqP8wQA==
+		
+		2.1, 0.75
+
+				CATransform3DTranslate(transform, 0, 0, -900);
+				[Sign rotate:transform degrees:25 axis:XAxis];
+				[Sign rotate:transform degrees:-0.8 axis:ZAxis];
+				CATransform3DTranslate(transform, -50, 40, 0);
+	
+	
+	
+	-	[Landscape]
+		0.9999619,-0.007908926,-0.003687993,7.375987e-06,0.008726535,0.9062732,0.4226022,-0.0008452044,0,-0.4226183,0.9063078,-0.001812616,-39.99848,0.316357,-899.8525,2.799705
+		gf1/P3GUAbxDsnG7P3/3Nr75DjyGAWg/UF/YPrWQXboAAAAAbGHYvskDaD9Jle26cf4fwo35oT6P9mDEXy4zQA==
+		
+		1.43, 1.1
+		
+				CATransform3DTranslate(transform, 0, 0, -900);
+				[Sign rotate:transform degrees:25 axis:XAxis];
+				[Sign rotate:transform degrees:-0.5 axis:ZAxis];
+				CATransform3DTranslate(transform, -40, 0, 0);

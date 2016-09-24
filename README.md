@@ -16,7 +16,9 @@ These installments were accompanied by podium signs describing their operation, 
 
 <img src="https://raw.githubusercontent.com/Alhadis/REST-GreenWalk/static/figure-2.jpg" align="right" width="256" />
 #### Development
-Aside from graphical duties, I was also tasked with learning XCode and Objective-C, neither of which I'd never heard of prior to the project. Programming was handled in parallel to  3D duties, often while rendering. Two different versions of the app were produced; one for iPad, and another for iPhone. Both used a different version of the full-res animation, scaled appropriately.
+Aside from graphical duties, I was also tasked with learning XCode and Objective-C, neither of which I'd never heard of prior to the project. Programming was handled in parallel to  3D duties, often while rendering. Two different versions of the app were produced; one for [iPad][1], and another for iPhone. Both used a different version of the full-res animation, scaled appropriately.
+
+[1]: https://github.com/Alhadis/REST-GreenWalk/tree/ipad
 
 Needless to say, the total time to render a 4.5-minute long iPad-sized animation was far from trivial. A grand total of 5 months (including compositing, masking and additional tracking) was spent before the compiled animation was ready to be dropped into the fledgling iOS app. Remaining development lasted until November, spanning a full year's worth of work.
 

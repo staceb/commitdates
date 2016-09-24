@@ -3,16 +3,18 @@
 
 **Download for [iPhone] or [iPad].**
 
+<a href="https://vimeo.com/141249918"><img src="https://raw.githubusercontent.com/Alhadis/REST-GreenWalk/static/watch-video.png" width="512" /></a>
 
 This is an iOS app I developed in late 2010 for Swinburne TAFE, when I was still new to serious programming. Consequently, none of the original project files were tracked in version control; this repository's history has been synthesised using timestamps of `rar` archives taken off an old CD-R.
 
-
+<img src="https://raw.githubusercontent.com/Alhadis/REST-GreenWalk/static/figure-1.jpg" align="left" width="256" />
 #### Background
 I was commissioned to model, texture, render and animate a realistic 3D flythrough of the campus grounds to showcase sustainability-related features that had been installed earlier that year. These included solar panels, hydroponic gardens, solar-powered hot water systems, drainage systems, and others.
 
 These installments were accompanied by podium signs describing their operation, and how they benefited the environment. The signs themselves were meant to be read sequentially, taking visitors across the campus grounds between each landmark. The app's purpose was to deliver the experience of walking through the campus, seeing and reading about each feature.
 
 
+<img src="https://raw.githubusercontent.com/Alhadis/REST-GreenWalk/static/figure-2.jpg" align="right" width="256" />
 #### Development
 Aside from graphical duties, I was also tasked with learning XCode and Objective-C, neither of which I'd never heard of prior to the project. Programming was handled in parallel to  3D duties, often while rendering. Two different versions of the app were produced; one for iPad, and another for iPhone. Both used a different version of the full-res animation, scaled appropriately.
 
